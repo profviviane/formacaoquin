@@ -6,7 +6,7 @@ O grupo foi criado em meados de junho deste ano, para compartilhar informações
 
 Iniciamos com o HTML.
 
-Requisitos necessários é instalar um dos softwares abaixo:
+Requisitos necessários é instalar um dos softwares:
 Sublime;
 Atom;e
 Vs Codem.
